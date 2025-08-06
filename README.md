@@ -29,7 +29,8 @@ Gemini Advanced Renderer 正是为解决这些痛点而生。它通过一个高�
 
 自动处理并内联外部 CSS 和 JavaScript 资源，实现零依赖的自包含预览。
 
-<img width="1523" height="1058" alt="image" src="https://github.com/user-attachments/assets/69de0d48-71c9-4198-b65a-2b1d913aa4d4" />
+<img width="1153" height="1058" alt="a335e65a-d307-488a-bbd6-ea2c8db909cd" src="https://github.com/user-attachments/assets/1d1595a8-0341-4019-833b-9a63b64e57b4" />
+
 
 
 🎨 智能渲染与修正 Mermaid 图表:
@@ -40,7 +41,8 @@ Gemini Advanced Renderer 正是为解决这些痛点而生。它通过一个高�
 
 内置语法修正引擎：能自动修复常见的 gantt（甘特图）、quadrantChart（四象限图）和 requirementDiagram（需求图）中的语法错误（如缺少引号、格式错误等），大幅提高渲染成功率。
 
-<img width="1511" height="1072" alt="image" src="https://github.com/user-attachments/assets/769374e6-3c88-4735-b347-4314511f878c" />
+<img width="854" height="1011" alt="789ff9de-4853-4135-8bf9-23e4a7a01489" src="https://github.com/user-attachments/assets/e6f4ccbd-4a8a-471f-8ad9-ce1534fbb175" />
+
 
 
 🖼️ 自动解析 Pollinations AI 图像:
